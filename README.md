@@ -1,5 +1,7 @@
 # Movie Discovery App
 
+**🔗 Live demo:** [movie-app-virid-pi.vercel.app](https://movie-app-virid-pi.vercel.app/)
+
 A React app for browsing and discovering movies, with client-side routing between views (home, details, search, etc.) via React Router.
 
 ## Features
